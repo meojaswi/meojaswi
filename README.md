@@ -42,22 +42,22 @@
 <div align="center">
 
   <!-- Gmail -->
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:ojaswi3236@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <!-- LinkedIn -->
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="https://www.linkedin.com/in/kumar-ojaswi/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <!-- Codeforces -->
-  <a href="YOUR_CODEFORCES_PROFILE">
+  <a href="https://codeforces.com/profile/krojaswi">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 
   <!-- LeetCode -->
-  <a href="YOUR_LEETCODE_PROFILE">
+  <a href="https://leetcode.com/u/kumarojaswi/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 
@@ -87,7 +87,7 @@
 ## 🧩 Profile Views
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=meojaswi&label=Profile%20Views&color=blueviolet&style=flat" />
 </div>
 
 ---
