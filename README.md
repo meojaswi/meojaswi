@@ -1,8 +1,8 @@
 <!-- GIF Banner -->
 <div align="center">
-  <!-- Replace this link with your own GIF later -->
-  <img src="YOUR_GIF_LINK_HERE" alt="banner gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/meojaswi/meojaswi/main/Banner.gif" width="100%" />
 </div>
+
 
 <!-- Title -->
 <h1 align="center">Hi 👋, I'm Kumar Ojaswi</h1>
