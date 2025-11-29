@@ -1,6 +1,6 @@
 <!-- GIF Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/meojaswi/meojaswi/main/Banner.gif" width="800px%" />
+  <img src="https://raw.githubusercontent.com/meojaswi/meojaswi/main/Banner.gif" width="800px" />
 </div>
 
 
