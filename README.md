@@ -19,7 +19,7 @@
       border-radius:15px;
       display:inline-block;
   ">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" /> &nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="50" height="50"/> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/> &nbsp;
@@ -59,6 +59,11 @@
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/kumarojaswi/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+
+  <!-- Monkeytype -->
+  <a href="https://monkeytype.com/profile/me.ojaswi">
+    <img src="https://img.shields.io/badge/Monkeytype-121212?style=for-the-badge&logo=monkeytype&logoColor=white" />
   </a>
 
 </div>
