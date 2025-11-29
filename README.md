@@ -1,73 +1,93 @@
-<!-- Banner GIF -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/banner.gif" width="100%" />
-</p>
+<!-- GIF Banner -->
+<div align="center">
+  <!-- Replace this link with your own GIF later -->
+  <img src="YOUR_GIF_LINK_HERE" alt="banner gif" width="100%" />
+</div>
 
+<!-- Title -->
 <h1 align="center">Hi 👋, I'm Kumar Ojaswi</h1>
-<h3 align="center">🚀 CSE Student | Competitive Programmer | Web Dev | ML & AI Enthusiast</h3>
+<h3 align="center">A Passionate CSE Student & Aspiring Developer</h3>
 
 ---
 
-## 🚀 About Me  
-- 🎓 I am a **2nd-year Computer Science Engineering student**  
-- 💻 I’m passionate about **Competitive Programming**  
-- 🌐 I enjoy building **Web Development** projects  
-- 🤖 Currently learning **Machine Learning and AI**  
-- 🎯 Always curious and love solving real-world problems  
+## 🛠️ Languages & Tools
+
+<div align="center">
+  <div style="
+      background:#0d1117;
+      padding:20px;
+      border-radius:15px;
+      display:inline-block;
+  ">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" /> &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/> &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/> &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/> &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/> &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/> &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/> &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50"/> &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/> &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/> &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50"/> &nbsp;
+    <img src="https://img.icons8.com/color/512/google-colab.png" width="50" height="50"/> &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
+  </div>
+</div>
 
 ---
 
-## 🛠️ Skills & Technologies  
+## 🌐 Connect With Me
 
-### **Languages**
-- C, C++, Java, Python, JavaScript  
+<div align="center">
 
-### **Web Development**
-- HTML, CSS, JavaScript  
-- React (beginner), Node.js (beginner)
+  <!-- Gmail -->
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-### **Machine Learning**
-- Python Libraries: NumPy, Pandas, Matplotlib  
-- ML Basics: Regression, Classification  
+  <!-- LinkedIn -->
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-### **Tools**
-- Git & GitHub  
-- VS Code  
-- Linux / Ubuntu  
+  <!-- Codeforces -->
+  <a href="YOUR_CODEFORCES_PROFILE">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
 
----
+  <!-- LeetCode -->
+  <a href="YOUR_LEETCODE_PROFILE">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170px" />
-</p>
-
----
-
-## 🔥 GitHub Streak  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+</div>
 
 ---
 
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue" height="150" />
+
+</div>
 
 ---
 
-## 🌍 Connect With Me  
-<p align="left">
-<a href="https://www.linkedin.com/in/kumar-ojaswi/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-</p>
+## 🚀 About Me
+
+- 🌱 I’m currently learning **Web Development, ML & Competitive Programming**
+- 💻 I solve problems on **LeetCode & Codeforces**
+- ⚡ Fun fact: *I enjoy building cool digital stuff and automating tasks*
 
 ---
 
-<p align="center">
-  ⭐ *Thanks for visiting my profile!* ⭐  
-</p>
+## 🧩 Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blueviolet&style=flat" />
+</div>
+
+---
