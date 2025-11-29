@@ -61,7 +61,7 @@
 
 ## 🌍 Connect With Me  
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/kumar-ojaswi/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 </p>
